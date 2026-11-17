@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.delete {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#submit {
+  width: 100%;
+}
+
